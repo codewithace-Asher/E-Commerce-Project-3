@@ -5,55 +5,44 @@
 <title>E Commerce Project #3-Learning People</title>
 <link href="assests/style/style.css" rel="stylesheet" type="text/css">
 <link href="assests/js/js.js" type="text/javascript">
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 </head>
 
 <body>
-	<!--Header-->
-	<header class="header">
-		<div class="container">
-		<h1>
-			<a href="#" class="logo">Sneakers</a>
-		</h1>
-			<nav class="navbar">
-				<div class="container">
-					<ul>
-						<li>
-							<a href="#"></a>
-							<span>Collections</span>
-						</li>
-						<li>
-							<a href="#"></a>
-							<span>Men</span>
-						</li>
-						<li>
-							<a href="#"></a>
-							<span>Women</span>
-						</li>
-						<li>
-							<a href="#"></a>
-							<span>About</span>
-						</li>
-						<li>
-							<a href="#"></a>
-							<span>Contact</span>
-						</li>
-					</ul>
-					<ul>
-						<li>
-							<a href="#" class="notification icon-box"></a>
-							<span class="material-symbols-rounded icon">#</span>
-						</li>
-						<li>
-							<a href="#" class="header-profile"></a>
-							<figure class="profile-avatar">
-								<img src="assests/images/image-avatar.png" alt="#" width="32" height="32">
-							</figure>
-						</li>
-					</ul>
-				</div>
-			</nav>
-			
-		</div>
-	</header>
+     <!-- Navbar -->
+      <nav>
+        <div class="nav_container">
+          <div class="nav_left-sec">
+            <img src="assests/images/icon-menu.svg" id="menu-btn" alt="menu" class="hidden menu"/>
+            <img src="assests/images/logo.svg" alt="logo" class="nav_logo" />
+            <div class="overlay"></div>
+            <ul class="nav_links">
+             <img src="assests/images/icon-close.svg" alt="close" class="close-btn hidden"/>
+              <li class="nav_link">Collections</li>
+              <li class="nav_link">Men</li>
+              <li class="nav_link">Women</li>
+              <li class="nav_link">About</li>
+              <li class="nav_link">Contact</li>
+            </ul>
+          </div>
+          <div class="nav_right-sec">
+            <!-- Cart -->
+            <div class="cart-container">
+              <button class="cart-btn">
+                <span class="indicator"></span>
+                <img src="assests/images/icon-cart.svg" alt="cart" class="cart" />
+              </button>
+              <div class="cart-wrp invisible">
+                <p class="cart-heading">Cart</p>
+                <div class="divider"></div>
+                <div class="cart-content empty">
+                  <p>Your cart is empty</p>
+                </div>
+              </div>
+            </div>
+            <img src="assests/images/image-avatar.png" alt="avatar" class="avatar" />
+          </div>
+        </div>
+      </nav>
 	</body>
 </html>

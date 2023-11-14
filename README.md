@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: <p align="center"><a href="https://codewithace-asher.github.io/in-movement-pt/"></a></p>
+- Solution URL: (https://github.com/codewithace-Asher/E-Commerce-Project-3)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process

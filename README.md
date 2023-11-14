@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="screenshot.png"<br>
+<img src="screenshot.png">
 
 
 ### Links

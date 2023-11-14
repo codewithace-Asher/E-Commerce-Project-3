@@ -1,4 +1,4 @@
-<p align="centre"># E Commerce Project 3<p/>
+# E Commerce Project 3
 
 # Frontend Mentor - E-Commerce Product Page Solution
 

@@ -1,6 +1,6 @@
-# E-Commerce-Project-3
+<p align="centre"># E Commerce Project 3<p/>
 
-# Frontend Mentor - E-commerce Product Page Solution
+# Frontend Mentor - E-Commerce Product Page Solution
 
 This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 

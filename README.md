@@ -56,9 +56,7 @@ Users should be able to:
 
 ### Built with
 
-- HTML
-- CSS
-- JS
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 ### What I learned
 
@@ -69,14 +67,27 @@ i have managed to accomplish this task.
 
 ### Useful resources
 
-- [Resource 1 - developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Learn/CSS) - This helped me for for the little pieces of code I had trouble with .
-- [Resource 2 - learningpeopleapac.percipio.com](https://learningpeopleapac.percipio.com/) - This is an amazing resource helpoed me build a strong foundation with my coding journey.
+ - Code+ Learning People Global (https://learningpeopleapac.percipio.com/)
+ 
+ - Kevin Powel (https://courses.kevinpowell.co/conquering-responsive-layouts)
+ 
+ - Front-End Simplified (https://frontendsimplified.com/)
+ 
+ - Developer.mozilla (https://developer.mozilla.org/en-US/docs/Web)
 
 
-## Author
+</p> 
+<h2 align="center">Acknowledgements :</h2>
+<h3 align="center">Content and Media :</h3>
+<p align="center">
+	
+- All images that were used were licensed by Creative Cloud Adobe.(https://stock.adobe.com/)
 
-- Website - [codewithace](https://https://github.com/codewithace-Asher)
-
-
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://codepen.io/_AC3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/_ac3" height="30" width="40" /></a>
+<a href="https://twitter.com/asher_dev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asher_dev_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/codewithace-asher/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/codewithace-asher/" height="30" width="40" /></a>
+</p>
 
 

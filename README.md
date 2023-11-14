@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/codewithace-Asher/E-Commerce-Project-3)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://codewithace-asher.github.io/E-Commerce-Project-3.github.io/)
 
 ## My process
 

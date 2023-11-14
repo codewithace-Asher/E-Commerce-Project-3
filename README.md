@@ -43,13 +43,28 @@ Users should be able to:
 
 ## My process
 
+- Create Nav 
+- Contents and partial function for the "Cart"
+- Create Main Content using Flex Options
+- Lightbox content created
+
+- Style CSS
+
+- Queryselectors
+- Create functions / eventlisteners 
+
+
 ### Built with
 
+- HTML
+- CSS
+- JS
 
 ### What I learned
 
+- The challenge for myself was making sure all my JS functions worked correctly , and worked in order. With many failed attempts and video tutorials 
+i have managed to accomplish this task.
 
-### Continued development
 
 
 ### Useful resources

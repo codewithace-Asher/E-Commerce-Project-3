@@ -54,8 +54,8 @@ Users should be able to:
 
 ### Useful resources
 
-- [Resource 1](https://developer.mozilla.org/en-US/docs/Learn/CSS) - This helped me for for the little pieces of code I had trouble with .
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Resource 1 - developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Learn/CSS) - This helped me for for the little pieces of code I had trouble with .
+- [Resource 2 - learningpeopleapac.percipio.com](https://learningpeopleapac.percipio.com/) - This is an amazing resource helpoed me build a strong foundation with my coding journey.
 
 
 ## Author

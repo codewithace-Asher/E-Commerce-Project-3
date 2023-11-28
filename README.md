@@ -43,15 +43,16 @@ Users should be able to:
 
 ## My process
 
-- Create Nav 
-- Contents and partial function for the "Cart"
-- Create Main Content using Flex Options
-- Lightbox content created
+- Setting up the HTML:
+  Start by creating an HTML file (e.g., index.html) that will serve as the foundation of the E-Commerce landing page. Within the HTML file, create structure the layout. Naviagtion Bar , Main Content , Thumbnails
+  
+- Attach CSS Sheet to HTML, implement colours from resources provided . Incorporating Flex Box .
 
-- Style CSS
+- Create a new JavaScript file (app.js) and link it to the HTML file using the script tag. This is where all the logic and functionality for the cart and lightbox is implemented.
 
-- Queryselectors
-- Create functions / eventlisteners 
+- Implement Media Queries for phone and smaller device funtionality.
+
+
 
 
 ### Built with
